@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "news-app",
-    "slug": "news-app",
+    "name": "newsera",
+    "slug": "newsera",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
